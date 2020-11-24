@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+  margin: 0;
+  background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 125%;}
+.reset{
+  font-size: 2em;
+}
+.container{
+  margin: 10% auto;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-flow: row wrap;
+  align-content: space-around;
+  border: 2px solid beige;
+  background-color: beige;
+}
+
+  .square{
+    background-color: aqua;
+    padding: 0px;
+    margin: 0px;
+    font-size: 80px;
+    min-height: 33.333%;
+    background-color: rgb(170, 170, 170);
+    flex: 33.333%;
+    font-family: 'Permanent Marker', cursive;
+    background-color: rgba(241, 241, 241, 0.877);
+  }
+
+#a1 {
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+#a2 {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+#a3 {
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
+
+#b1 {
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+#b2 {
+  border: 1px solid black;
+}
+
+#b3 {
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+#c1 {
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+}
+
+#c2 {
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+#c3 {
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+}
+
