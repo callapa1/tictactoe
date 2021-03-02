@@ -14,4 +14,4 @@ _The classic game._
 No installation needed.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-   [Just click HERE to play]: <https://github.com/callapa1/tictactoe/>
+   [Just click HERE to play]: <https://callapa1.github.io/tictactoe/>
